@@ -1,17 +1,17 @@
-# Hello there 👋
+# Hello World 👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I make elegantly professional **💻 Distributed Systems, 📱 Android apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+你好，我优雅地专业 **💻 分布式系统 📱 Android应用程序和 🌐网站**为生，还**写了一些博客**。🌈
 
-* 🧐   Interested in full stack. Recent focus on backend.
+* 🧐   对完整堆栈感兴趣。最近关注后端。
 * 💼   Senior Back End Engineer at Alibaba Group.
-* 🎓   Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Math & English.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
+* 🎓   计算机科学与工程专业工程学士学位，专业GPA 3.90 / 4.0，GPA 3.75 / 4.0，TOP 3％。
+* 🌱   目前正在学习数学和英语。
+* 📚   阅读有关Apple，Harry Potter以及计算机如何工作的更多信息。
+* 💻  具有4年的计算机科学与技术教育和5年的开发工作经验。
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.33 million PV / 0.87 million UV).
+* ✍🏻  我在[个人博客中](https://halfrost.com/)写了关于编程和技术的个人想法（累计333万PV / 87万UV）。
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
@@ -37,7 +37,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 Android apps and 
 </p>
 
 </details>
-  
+
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
@@ -92,9 +92,9 @@ I make elegantly professional **💻 Distributed Systems, 📱 Android apps and 
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
  </p>
-  
+
 ### CSPs
-  
+
  <p float="left">
   <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
@@ -103,9 +103,9 @@ I make elegantly professional **💻 Distributed Systems, 📱 Android apps and 
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
  </p>
-  
+
 ### Monitoring
-  
+
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
@@ -119,7 +119,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 Android apps and 
 </p>
 
 ### Databases
-  
+
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
