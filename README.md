@@ -17,7 +17,7 @@
 
 <hr>
 <p align="center">
-  <b>看看我的个人博客，让我们在计算机中遨游！!!</b>
+  <b>看看我的个人博客，让我们在有趣的前端知识中遨游！!!</b>
 
 <p align="center">
 <a href= "https://heweiliang88.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
