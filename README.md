@@ -14,6 +14,20 @@
 * 💼   兴趣爱好：计算机相关硬件、黑苹果、路由器、电视机盒子、服务器运维。
 * 💬   联系我:  <a href="mailto:heweiliang88888@gmail">邮箱</a>。
 
+技术栈以及学习项目
+
+- [x] HTML 
+- [x] CSS
+- [x] JavaScript 
+- [x] JQuery
+- [x] Ajax
+- [x] ES6
+- [x] TypeScript
+- [x] Node
+- [x] Koa
+- [x] Express
+- [x] Vue
+
 <hr>
 <p align="center">
   <b>看看我的个人博客，让我们在有趣的前端知识中遨游！!!</b>
