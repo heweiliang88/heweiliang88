@@ -14,46 +14,87 @@
 * 💼   兴趣爱好：计算机相关硬件、黑苹果、路由器、电视机盒子、服务器运维。
 * 💬   联系我:  <a href="mailto:heweiliang88888@gmail">邮箱</a>。
 
-### 技术栈
+## 技术
 
-运维
+   <div style="display: flex;justify-content: space-around;">
+         <div>
+             <h4>前端</h4>
+             <div>
+                 <input type="checkbox" checked="checked">Git
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">HTML5
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">CSS3
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">JavaScript
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">ES6
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">JQuery
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">AJAX
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">TypeScript
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">Vue
+             </div>
+         </div>
+         <div>
+             <h4>后端</h4>
+             <div>
+                 <input type="checkbox" checked="checked">Node
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">C
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">Java
+             </div>
+             <div>
+                 <input type="checkbox" checked="checked">Python
+             </div>
+         </div>
+        <div>
+            <h4>运维</h4>
+            <div>
+                <input type="checkbox" checked="checked">Linux
+            </div>
+            <div>
+                <input type="checkbox" checked="checked">MySQL
+            </div>
+            <div>
+                <input type="checkbox" checked="checked">Docker
+            </div>
+               <div>
+                   <input type="checkbox" checked="checked">zabbix
+               </div>
+        </div>
+     <div>
+            <h4>硬件</h4>
+            <div>
+                <input type="checkbox" checked="checked">电脑主机
+            </div>
+            <div>
+                <input type="checkbox" checked="checked">树莓派
+            </div>
+            <div>
+                <input type="checkbox" checked="checked">ESP8266
+            </div>
+               <div>
+                   <input type="checkbox" checked="checked">ESP32
+               </div>
+        </div>
+    </div>
 
-- [x] Linux
-- [x] MySQL
-- [x] Docker
-
-后端
-
-- [x] C
-- [x] Java
-- [x] Python
-- [x] Node
-- [x] Koa
-- [x] Express
-
-前端
-
-- [x] Git
-- [x] HTML 
-- [x] CSS
-- [x] JavaScript 
-- [x] JQuery
-- [x] Ajax
-- [x] ES6
-- [x] TypeScript
-- [x] Vue
-
-测试
-
-408
-
-### 硬件知识
-
-- [x] 电脑主机
-- [x] 树莓派
-- [x] ESP8266
-
-### 个人项目
+## 项目
 
 - 前端：
   - HelloCS 前端学习笔记  
